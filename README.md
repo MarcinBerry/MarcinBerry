@@ -13,6 +13,7 @@ Cześć, jestem Marcin. Człowiek zafascynowany programowaniem, marzący o duży
   <li>Osobistej stronie CV</li>
   <li>Nauce Angular’a</li>
 </ul>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinBerry&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

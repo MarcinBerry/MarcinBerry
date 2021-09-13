@@ -1,3 +1,4 @@
+<h4>ENG</h4>
 Hi, I'm Marcin. A man fascinated by programming, dreaming about big, ambitious projects, but still learning the craft. 
 <br/>Currently focused on:
 <ul>
@@ -5,7 +6,8 @@ Hi, I'm Marcin. A man fascinated by programming, dreaming about big, ambitious p
   <li>Personal resume page</li>
   <li>Learning Angular</li>
 </ul>
-
+<hr>
+<h4>PL</h4>
 Cześć, jestem Marcin. Człowiek zafascynowany programowaniem, marzący o dużych ambitnych projektach, ale nadal uczący się rzemiosła. 
 </br>Obecnie skupiony na: 
 <ul>

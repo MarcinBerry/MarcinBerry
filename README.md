@@ -1,7 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinBerry&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinBerry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<table>
+  <tr>
+    <td>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinBerry&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinBerry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
 
 <!--
 **MarcinBerry/MarcinBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,6 @@
 Hi, I'm Marcin. A man fascinated by programming, dreaming about big, ambitious projects, but still learning the craft. 
 <br/>Currently focused on:
 <ul>
-  <li>Changing jobs</li>
   <li>Personal resume page</li>
   <li>Learning Angular</li>
 </ul>
@@ -11,7 +10,6 @@ Hi, I'm Marcin. A man fascinated by programming, dreaming about big, ambitious p
 Cześć, jestem Marcin. Człowiek zafascynowany programowaniem, marzący o dużych ambitnych projektach, ale nadal uczący się rzemiosła. 
 </br>Obecnie skupiony na: 
 <ul>
-  <li>Zmianie pracy</li>
   <li>Osobistej stronie CV</li>
   <li>Nauce Angular’a</li>
 </ul>

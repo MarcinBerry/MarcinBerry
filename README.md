@@ -3,7 +3,7 @@ Hi, I'm Marcin. A man fascinated by programming, dreaming about big, ambitious p
 <br/>Currently focused on:
 <ul>
   <li>Personal resume page</li>
-  <li>Learning Angular</li>
+  <li>Learning React</li>
 </ul>
 <hr>
 <h4>PL</h4>
@@ -11,7 +11,7 @@ Cześć, jestem Marcin. Człowiek zafascynowany programowaniem, marzący o duży
 </br>Obecnie skupiony na: 
 <ul>
   <li>Osobistej stronie CV</li>
-  <li>Nauce Angular’a</li>
+  <li>Nauce React’a</li>
 </ul>
 <br/>
 

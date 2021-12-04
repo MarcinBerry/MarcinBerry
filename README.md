@@ -1,36 +1,16 @@
-<h4>ENG</h4>
-Hi, I'm Marcin. A man fascinated by programming, dreaming about big, ambitious projects, but still learning the craft. 
-<br/>Currently focused on:
-<ul>
-  <li>Personal resume page</li>
-  <li>Learning React</li>
-</ul>
-<hr>
-<h4>PL</h4>
-Cześć, jestem Marcin. Człowiek zafascynowany programowaniem, marzący o dużych ambitnych projektach, ale nadal uczący się rzemiosła. 
-</br>Obecnie skupiony na: 
-<ul>
-  <li>Osobistej stronie CV</li>
-  <li>Nauce React’a</li>
-</ul>
-<br/>
+<h1 align='center'>Hi👋, I'm Marcin.</h1>
+<h3 align='center'>A man fascinated by programming, dreaming about big, ambitious projects.</h3>
+<hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinBerry&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## :man_technologist: About me
+- 🌱 I’m currently learning <b>React.js</b>
+- 🔭 I’m currently working on <b>small personal projects</b>
+- 💬 Ask me about <b>anything!</b> (I like talking)
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/berneckimarcin/'>linkedin</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinBerry&layout=compact&theme=dracula&hide=C,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**MarcinBerry/MarcinBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :chart_with_upwards_trend:My stats
+  <p align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=MarcinBerry&count_private=true&theme=dracula'/>
+    <br/><br/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinBerry&layout=compact&theme=dracula&hide=C,c%2B%2B'/>
+   </p>

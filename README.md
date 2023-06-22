@@ -1,16 +1,24 @@
-<h3 align="left">Hello, traveller 🧙‍♂️</h3>
-<h2 align="center">My name is Marcin</h2>
-<h3 align="center">I'm Frontend Developer</h3>
+## 🎨 Frontend Developer | React | Next.js | GraphQL
+Greetings and welcome to my vibrant GitHub realm! I am an imaginative Frontend Developer, skilled in the art of crafting exquisite web experiences that captivate users and leave them in awe. With my arsenal of tools including React, Next.js, and GraphQL, I embark on exciting coding adventures to breathe life into digital landscapes.
+Step into my world of creativity:
+### 🚀 React Realms
+Journey through my captivating React projects, where components dance in harmony, hooks unlock hidden powers, and state management paints a mesmerizing picture of interactivity.
 
-<h2>About Me</h2>
+### ⚡ Next.js Odyssey
+Embark on an exhilarating adventure as you explore my Next.js projects. Witness the magic of server-side rendering and static site generation, where pages come alive with lightning-fast performance and captivating visuals.
 
-- Learning <b>Next.js</b>
+### 🔗 GraphQL Quest
+Uncover the secrets of seamless data fetching and mutations in my GraphQL-integrated projects. Witness the elegant dance between client and server as they communicate effortlessly, creating a symphony of efficiency.
 
-- Working on <b>Dreams</b>
+### 💡 Innovative Visions
+Delve into my visionary experiments and prototypes that push the boundaries of frontend development. Witness unconventional designs, playful animations, and cutting-edge concepts that challenge the status quo.
 
-- After work <b>enjoying life</b>
+### 🎨 Creative Canvas
+Peek into my artistic code snippets, where I paint elegant algorithms and sprinkle them with whimsical logic. Each stroke of code is carefully crafted to create a masterpiece that combines functionality and aesthetics.
 
-<h2>Technology and Tools</h2>
+Ready to embark on a collaborative journey? Connect with me on LinkedIn to explore exciting possibilities and co-create extraordinary digital experiences.
+
+[LinkedIn](https://www.linkedin.com/in/berneckimarcin/)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="height:48px;"/> </a> 

@@ -18,8 +18,6 @@ Peek into my artistic code snippets, where I paint elegant algorithms and sprink
 
 Ready to embark on a collaborative journey? Connect with me on LinkedIn to explore exciting possibilities and co-create extraordinary digital experiences.
 
-[LinkedIn](https://www.linkedin.com/in/berneckimarcin/)
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="height:48px;"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
